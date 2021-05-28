@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Audio/Lvl1.wav
+    - Assets/Audio/Lvl1.wav.meta
+    - Assets/Audio/Lvl2.wav
+    - Assets/Audio/Lvl2.wav.meta
+    - Assets/Audio/Lvl3.wav
+    - Assets/Audio/Lvl3.wav.meta
+    - Assets/Audio/Lvl4.wav
+    - Assets/Audio/Lvl4.wav.meta
+    - Assets/Scenes/Level 1.unity
+    - Assets/Scenes/Level 2.unity
+    - Assets/Scenes/Level 3.unity
+    - Assets/Scenes/Level 4.unity
+    - Assets/Scripts/Dialog.cs
+    - 
+    m_Values: 0101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
